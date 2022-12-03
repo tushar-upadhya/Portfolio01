@@ -192,6 +192,7 @@ img {
     line-height: 0.8;
 }
 .home__title span {
+     font-size: var(--big-font-size);
     text-shadow: 0 20px 25px rgba(0, 0, 0, 0.5);
 }
 .home__scroll {
